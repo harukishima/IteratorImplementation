@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IteratorImplementation.CListIterator&lt;T&gt;">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAABAAAAAAAAAAQAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CListIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.NullIterator">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NullIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.File">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAgAAEAAIAAAQAAAAAAQAAAAAAAAAAAAI=</HashCode>
+      <FileName>File.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.Folder">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAoABAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Folder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.Program" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorImplementation.FolderIterator">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FolderIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IteratorImplementation.Iterator&lt;T&gt;">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iterator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IteratorImplementation.IComputerItem">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IComputerItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

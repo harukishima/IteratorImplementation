@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IteratorImplementation.ListIterator&lt;T&gt;">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>ListIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.BackwardListIterator&lt;T&gt;">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackwardListIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorImplementation.ForwardListIterator&lt;T&gt;">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ForwardListIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorImplementation.LinkedListNodeP&lt;T&gt;">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEBAAgAAAAAAAAAAAAAAAACAE=</HashCode>
+      <FileName>LinkedListNodeP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IteratorImplementation.Program">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IteratorImplementation.Iterator&lt;T&gt;">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iterator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IteratorImplementation.ListNodeP&lt;T&gt;">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>ListNodeP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
